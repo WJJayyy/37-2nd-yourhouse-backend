@@ -1,14 +1,18 @@
+![yourhouse_bar](https://user-images.githubusercontent.com/84329979/202771505-581e6d09-b074-4b64-b6c3-368f5717a526.jpg)
+
+## [👉 YourHouse 바로가기](https://yourhouse.pien.kr/) 
+
 ## 너네집(YourHouse) 프로젝트 Front-end/Back-end 소개
 
 - 라이프스타일 커뮤니티 및 커머스 사이트 [오늘의 집](https://ohou.se/)을 모티브로한 프로젝트
 - 짧은 프로젝트 기간동안 개발에 집중해야 하므로 커뮤니티 기능에 초점을 맞추어 개발하였습니다.
-- 개발은 초기 세팅부터 전부 직접 구현했으며, 아래 데모 영상에서 보이는 부분은 모두 백앤드와 연결하여 실제 사용할 수 있는 서비스 수준으로 개발한 것입니다.
+- 초기 세팅 및 시연연상에서 보이는 모든 기능은 팀원들과 직접구현
 
 ### 개발 인원 및 기간
 
 - 개발기간 : 2022/10/3 ~ 2022/10/13
-- 개발 인원 : 프론트엔드 4명, 백엔드 3명
-- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/37-2nd-yourhouse-frontend)
+- 개발 인원 : FrontEnd 4명, BackEnd 3명
+- [프론트엔드 github 링크](https://github.com/wecode-bootcamp-korea/37-2nd-yourhouse-frontend)
 
 ### 프로젝트 선정이유
 
@@ -24,9 +28,11 @@
 
 ### 적용 기술
 
-> - Front-End : React.js, styled-components
-> - Back-End : Node.js, express, My SQL, JWT, multer, AWS(EC2,RDS)
-> - Common : KAKAO social login, RESTful API
+> Front-End : `React.js`, `styled-components`
+
+> Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `Bcrypt`, `JWT`, `Multer`, `AWS(VPC,EC2,RDS,S3)`
+
+> Common : `KAKAO social login` `Github`, `Trello`, `Slack`, `POSTMAN`, `dbdiagram.io`, `Figma`, `RestFul API`
 
 ### 구현 기능
 
