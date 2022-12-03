@@ -30,7 +30,7 @@
 
 > Front-End : `React.js`, `styled-components`
 
-> Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `Bcrypt`, `JWT`, `Multer`, `AWS(VPC,EC2,RDS,S3)`
+> Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `JWT`, `Multer`
 
 > Common : `KAKAO social login` `Github`, `Trello`, `Slack`, `POSTMAN`, `dbdiagram.io`, `Figma`, `RestFul API`
 
