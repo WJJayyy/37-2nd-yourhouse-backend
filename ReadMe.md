@@ -24,6 +24,12 @@
 
 <br>
 
+## **ERD**
+
+![2차 모델링](https://user-images.githubusercontent.com/105404643/206117103-baa458c5-9fdf-447a-bd51-bd74886027bc.png)
+
+---
+
 ## 적용 기술 및 구현 기능
 
 ### 적용 기술
